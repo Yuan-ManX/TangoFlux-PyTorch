@@ -1,7 +1,7 @@
 # TangoFlux PyTorch
 
 <p align="center">
-  <img src="TangoFlux.png" alt="TangoFlux" style="display:block; margin:auto; width:800px;" />
+  <img src="TangoFlux.png" alt="TangoFlux" style="display:block; margin:auto; width:780px;" />
 </p>
 
 PyTorch implementation of TangoFlux.
